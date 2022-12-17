@@ -1,7 +1,15 @@
+<h1>Machine Learning and Statistics</h1>
+<h2>Practical Exercises</h2>
+<h2>Evaluation of Keras Timeseries Anomaly Detection Notebook</h2>
+<h3>Conor McCaffrey, G00286552</h3>
 
+
+How to view the Keras Timeseries Anomaly Notebook with NBViewer and Binder. It is advisable to view the notebook using the following formats as GitHub can have issues displaying notebooks as originally intended. 
 
 Static Version: &nbsp;[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/conor-mccaffrey/machstat-assessment/blob/main/05-evaluation.ipynb)
-# Machine-Learning-and-Statistics
+
+Dynamic Version: &nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/conor-mccaffrey/machstat-assessment/blob/main/05-evaluation.ipynb/HEAD)
+
 
 <hr/>
 
