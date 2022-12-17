@@ -21,7 +21,7 @@ Dynamic Version: &nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://
 This folder contains three notebooks, 01-statistics-exercises.ipynb, 02-models.ipynb and 03-Parameters_Exercises.ipynb detailing excercises that were carried out over the course of the semester. These exercises gave us the grounding necessery to be able to work through the Keras notebook.
 
 <h2>Evaluation of Keras Timeseries Anomaly Notebook</h2>
-This notebook covers the project part of our module. It is a walkthrough of the Keras Timeseries Anomaly Detection notebook (found at the following link: https://keras.io/examples/timeseries/timeseries_anomaly_detection/), which some improvements made by us. This notebook is evidence of the knowledge gained throughout the duration of the module.
+This notebook covers the project part of our module. It is a walkthrough of the Keras Timeseries Anomaly Detection notebook (found at the following link: https://keras.io/examples/timeseries/timeseries_anomaly_detection/), with some improvements made by us. This notebook is evidence of the knowledge gained throughout the duration of the module.
 
 
 Thank you. 
