@@ -11,6 +11,7 @@ Inside the 'Practicals' folder, we have three ntoebooks containing completed exe
 <h2>Running the Notebooks</h2>
 View the Keras Timeseries Anomaly Notebook with NBViewer and Binder. It is advisable to view the notebook using the following formats as GitHub can have issues displaying notebooks as originally intended. 
 <br>
+<br>
 Static Version: &nbsp;[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/conor-mccaffrey/machstat-assessment/blob/main/05-evaluation.ipynb)
 <br>
 Dynamic Version: &nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/conor-mccaffrey/machstat-assessment/HEAD)
@@ -20,5 +21,6 @@ This folder contains three notebooks, 01-statistics-exercises.ipynb, 02-models.i
 
 <h2>Evaluation of Keras Timeseries Anomaly Notebook</h2>
 This notebook covers the project part of our module. It is a walkthrough of the Keras Timeseries Anomaly Detection notebook (found at the following link https://keras.io/examples/timeseries/timeseries_anomaly_detection/), which some improvements made by us. This notebook is evidence of the knowledge gained throughout the duration of the module.
+<br>
 <br>
 Thank you. 
