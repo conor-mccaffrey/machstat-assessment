@@ -24,4 +24,4 @@ This folder contains three notebooks, 01-statistics-exercises.ipynb, 02-models.i
 This notebook covers the project part of our module. It is a walkthrough of the Keras Timeseries Anomaly Detection notebook (found at the following link: https://keras.io/examples/timeseries/timeseries_anomaly_detection/), with some improvements made by us. This notebook is evidence of the knowledge gained throughout the duration of the module.
 
 
-Thank you. 
+Thank you for reading. 
